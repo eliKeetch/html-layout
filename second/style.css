@@ -1,0 +1,29 @@
+.col_1{
+  height: 100vh;
+  width: 100%;
+  background: #4a90e2;
+}
+.col_2{
+  height: 100vh;
+  width: 100%;
+  background: #50e3c2;
+}
+.col_3{
+  height: 100vh;
+  width: 100%;
+  background: #b8e986;
+}
+.red_box{
+  height: 25%;
+  width: 100%;
+  background: #d0021b;
+  color: white;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+.center{
+padding-top: 25%;
+  text-align: center;
+
+}
